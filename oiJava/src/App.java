@@ -3,6 +3,7 @@ import java.util.Scanner; // para conseguir utilizar o scanner
 public class App {
     public static void main(String[] args){
         // System.out.println("Hello, World!"); // serve para printar uma linha 
+
         int op = 0; // precisa ser inicializado para não ter nenhum erro
         while(op != 5){
             menu();
