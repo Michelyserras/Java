@@ -31,22 +31,16 @@
 <br>
     
 <table align = center> 
-       
 
-      |  **Tabela Condições IMC**|
-      ----------------------------
+| Faixa de IMC             | Condição                       |
+|--------------------------|--------------------------------|
+| Abaixo de 18,5           | Abaixo do peso                 |
+| Entre 18,6 e 24,9        | Peso ideal (parabéns)          |
+| Entre 25,0 e 29,9        | Levemente acima do peso        |
+| Entre 30,0 e 34,9        | Obesidade grau I               |
+| Entre 35,0 e 39,9        | Obesidade grau II (severa)     |
+| Maior ou igual a 40       | Obesidade grau III (mórbida)   |
 
-        |Abaixo de 18,5   | Abaixo do peso|          
-       
-        | Entre 18,6 e 24,9 | Peso ideal (parabéns)|  
-
-        | Entre 25,0 e 29,9 | Levemente acima do peso|
-
-        | Entre 30,0 e 34,9 | Obesidade grau I |
-
-        | Entre 35,0 e 39,9 | Obesidade grau II (severa)|
-
-        |  Maior ou igual a 40 | Obesidade grau III (mórbida)|
 </table>
 <br><br>
 
@@ -58,15 +52,13 @@
 
  <table align = center>
 
-    | Tabela de Código de Condições de Pagamento |
-    -----------------------------------------------
-    | 1 | À Vista em Dinheiro ou Pix | recebe 15% de desconto | 
+| Código | Condição de Pagamento | Desconto\Juros |
+|--------|-----------------------------------------------|-------------------------------------------------|
+| 1      | À Vista em Dinheiro ou Pix                    | Recebe 15% de desconto                          |
+| 2      | À Vista no cartão de crédito                  | Recebe 10% de desconto                          |
+| 3      | Parcelado no cartão em duas vezes             | Preço normal do produto sem juros               |
+| 4      | Parcelado no cartão em três vezes ou mais     | Preço normal do produto mais juros de 10%       |
 
-    | 2 | À Vista no cartão de crédito |  recebe 10% de desconto |
-
-    | 3 | Parcelado no cartão em duas vezes | preço normal do produto sem juros |
-
-    | 4 | Parcelado no cartão em três vezes ou mais |  preço normal do produto mais juros de 10% |
 </table>
  
 <br><br>
@@ -94,9 +86,13 @@
 <br><br>
 - [ ] - 22: Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro. Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
 
-<p> 
-        Fórmula: distância = tempo x velocidade. <br>
-        Litros usados = distância / 12 
+<p align = center> 
+
+| Fórmula                    | Cálculo                          |
+|----------------------------|----------------------------------|
+| Distância                  | tempo x velocidade               |
+| Litros usados              | distância / 1                    |
+
 </p>
 
 </ul>
