@@ -28,7 +28,7 @@ Dio.me </a>
 <br><br>
 - [x] -  6: Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
 <br><br>
-- [ ] -  7:  Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.
+- [x] -  7:  Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.
 <br><br>
 - [ ] - 8: Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
 <br><br>
