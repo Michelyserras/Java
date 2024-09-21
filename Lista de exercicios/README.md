@@ -26,7 +26,7 @@ Dio.me </a>
 <br><br>
 - [x] -  5: Faça um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule quantos salários mínimos esse usuário ganha e imprima na tela o resultado. (Base para o Salário mínimo R$1.293,20).
 <br><br>
-- [ ] -  6: Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
+- [x] -  6: Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
 <br><br>
 - [ ] -  7:  Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.
 <br><br>
