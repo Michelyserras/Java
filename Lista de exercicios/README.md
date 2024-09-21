@@ -9,7 +9,7 @@
 <div style="display: flex; align-items: flex-start;">
   <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="gatinho estudando" style="margin-right: 20px; width: 200px;">
 
-<div>
+<div style="margin-left">
 <h1> Exercícios: </h1>
 <a href = "https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao">
 Dio.me </a>  
