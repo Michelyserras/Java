@@ -20,9 +20,9 @@ Dio.me </a>
 <br><br>
 - [x] - 2: Faça um algoritmo para receber um número qualquer e imprimir na tela se o número é par ou ímpar, positivo ou negativo.
 <br><br>
-- [ ] -  3: Faça um algoritmo que leia dois valores inteiros A e B, se os valores de A e B forem iguais, deverá somar os dois valores, caso contrário deverá multiplicar A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado a uma variável C e imprimir seu valor na tela.
+- [x] -  3: Faça um algoritmo que leia dois valores inteiros A e B, se os valores de A e B forem iguais, deverá somar os dois valores, caso contrário deverá multiplicar A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado a uma variável C e imprimir seu valor na tela.
 <br><br>
-- [ ] - 4: Faça um algoritmo que receba um número inteiro e imprima na tela o seu antecessor e o seu sucessor.
+- [x] - 4: Faça um algoritmo que receba um número inteiro e imprima na tela o seu antecessor e o seu sucessor.
 <br><br>
 - [ ] -  5: Faça um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule quantos salários mínimos esse usuário ganha e imprima na tela o resultado. (Base para o Salário mínimo R$1.293,20).
 <br><br>
