@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex1 {
+public class ex1 {
     public static void main(String[] args){
         int a, b, c;
         int soma = 0;
