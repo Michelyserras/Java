@@ -5,16 +5,19 @@
 
 <blockquote> Esse repositório contém alguns exercícios para praticar a minha lógica de programação e aprender a utilizar a linguagem java.. </blockquote>
 
-<img align = right> 
+<div align = right>
+<img > 
 
 ![gatinho estudando](https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif) 
 
 </img>
-
-<h3> Exercícios: </h3>
+</div>
+<hr>
+<h1> Exercícios: </h1>
 <a href = "https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao">
 Dio.me
-</a> 
+</a>  
+<div align = center>
 <ul>
 
 <br><br>
@@ -104,4 +107,4 @@ Dio.me
 </p>
 
 </ul>
-
+</div>
