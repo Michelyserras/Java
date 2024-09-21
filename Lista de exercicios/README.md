@@ -32,7 +32,7 @@ Dio.me </a>
 <br><br>
 - [x] - 8: Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
 <br><br>
-- [ ] -  9: Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição de acordo com a tabela abaixo:
+- [x] -  9: Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição de acordo com a tabela abaixo:
 <br>
     
 <div align = center> 
