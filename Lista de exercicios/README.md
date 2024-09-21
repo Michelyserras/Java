@@ -8,9 +8,11 @@
 <p align = center> ![gatinho estudando](https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif) </p>
 
 <h3> Exercícios: </h3>
-<p>
+<ul>
+
 - [ x ] - 1: Faça um algoritmo que leia os valores de A, B, C e em seguida imprima na tela a soma entre A e B é mostre se a soma é menor que C.
     <br><br>
+
 - [ x ] - 2: Faça um algoritmo para receber um número qualquer e imprimir na tela se o número é par ou ímpar, positivo ou negativo.
 <br><br>
 - [ ] -  3: Faça um algoritmo que leia dois valores inteiros A e B, se os valores de A e B forem iguais, deverá somar os dois valores, caso contrário deverá multiplicar A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado a uma variável C e imprimir seu valor na tela.
@@ -45,6 +47,7 @@
         Maior ou igual a 40 | Obesidade grau III (mórbida)
 </p>
 <br><br>
+
 - [ ] -  10:  Faça um algoritmo que leia três notas obtidas por um aluno, e imprima na tela a média das notas.
 <br><br>
 - [ ] -  11:  Faça um algoritmo que leia quatro notas obtidas por um aluno, calcule a média das nota obtidas, imprima na tela o nome do aluno e se o aluno foi aprovado ou reprovado. Para o aluno ser considerado aprovado sua média final deve ser maior ou igual a 7.
@@ -93,5 +96,5 @@
     Litros usados = distância / 12 
 </p>
 
-</p>
+</ul>
 
