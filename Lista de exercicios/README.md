@@ -1,13 +1,20 @@
 <h1 align = center> Lista de exercicios de lógica de programação  </h1>
 
 
-<p align = right>Fonte: [Dio](https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao)  </p>   
+  
 
 <blockquote> Esse repositório contém alguns exercícios para praticar a minha lógica de programação e aprender a utilizar a linguagem java.. </blockquote>
 
-<p align = center> ![gatinho estudando](https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif) </p>
+<img align = right> 
+
+![gatinho estudando](https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif) 
+
+</img>
 
 <h3> Exercícios: </h3>
+<a href = "https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao">
+Dio.me
+</a> 
 <ul>
 
 <br><br>
@@ -85,6 +92,7 @@
 - [ ] - 21:  Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão: valor da hora aula, número de aulas lecionadas no mês e percentual de desconto do INSS. Imprima na tela o salário líquido final.
 <br><br>
 - [ ] - 22: Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro. Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
+
 
 <p align = center> 
 
