@@ -30,7 +30,7 @@ Dio.me </a>
 <br><br>
 - [x] -  7:  Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.
 <br><br>
-- [ ] - 8: Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
+- [x] - 8: Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
 <br><br>
 - [ ] -  9: Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição de acordo com a tabela abaixo:
 <br>
