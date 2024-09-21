@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex2 {
+public class ex2 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
 

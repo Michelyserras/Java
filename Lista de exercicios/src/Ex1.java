@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex1 {
+public class Ex1 {
     public static void main(String[] args){
         int a, b, c;
         int soma = 0;
@@ -23,7 +23,7 @@ public class ex1 {
         if(soma < c){
             System.out.println("O resultado da soma de A + B é menor que o valor de C");
         } 
-        if(soma == c){
+        else if(soma == c){
             System.out.println("O resultado da soma de A + B é igual ao valor de C");
         }
         else{
