@@ -4,20 +4,15 @@
   
 
 <blockquote> Esse repositório contém alguns exercícios para praticar a minha lógica de programação e aprender a utilizar a linguagem java.. </blockquote>
+<br><br>
 
-<div align = right>
-<img > 
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="gatinho estudando" style="margin-right: 20px; width: 200px;">
 
-![gatinho estudando](https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif) 
-
-</img>
-</div>
-<hr>
-<h1> Exercícios: </h1>
+<div>
+ <h1> Exercícios: </h1>
 <a href = "https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao">
-Dio.me
-</a>  
-<div align = center>
+Dio.me </a>  
 <ul>
 
 <br><br>
@@ -40,7 +35,7 @@ Dio.me
 - [ ] -  9: Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição de acordo com a tabela abaixo:
 <br>
     
-<table align = center> 
+<div align = center> 
 
 | Faixa de IMC             | Condição                       |
 |--------------------------|--------------------------------|
@@ -51,7 +46,7 @@ Dio.me
 | Entre 35,0 e 39,9        | Obesidade grau II (severa)     |
 | Maior ou igual a 40       | Obesidade grau III (mórbida)   |
 
-</table>
+</div>
 <br><br>
 
 - [ ] -  10:  Faça um algoritmo que leia três notas obtidas por um aluno, e imprima na tela a média das notas.
@@ -60,7 +55,7 @@ Dio.me
 <br><br>
 - [ ] - 12:  Faça um algoritmo que leia o valor de um produto e determine o valor que deve ser pago, conforme a escolha da forma de pagamento pelo comprador e imprima na tela o valor final do produto a ser pago. Utilize os códigos da tabela de condições de pagamento para efetuar o cálculo adequado.
 
- <table align = center>
+ <div align = center>
 
 | Código | Condição de Pagamento | Desconto\Juros |
 |--------|-----------------------------------------------|-------------------------------------------------|
@@ -69,7 +64,7 @@ Dio.me
 | 3      | Parcelado no cartão em duas vezes             | Preço normal do produto sem juros               |
 | 4      | Parcelado no cartão em três vezes ou mais     | Preço normal do produto mais juros de 10%       |
 
-</table>
+</div>
  
 <br><br>
 - [ ] - 13:  Faça algoritmo que leia o nome e a idade de uma peso e imprima na tela o nome da pessoa e se ela é maior ou menor de idade. 
@@ -97,14 +92,14 @@ Dio.me
 - [ ] - 22: Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro. Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
 
 
-<p align = center> 
+<div align = center> 
 
 | Fórmula                    | Cálculo                          |
 |----------------------------|----------------------------------|
 | Distância                  | tempo x velocidade               |
 | Litros usados              | distância / 1                    |
 
-</p>
+</div>
 
 </ul>
 </div>
