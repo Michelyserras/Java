@@ -11,7 +11,7 @@
 
 <div>
 <h1> Exercícios: </h1>
-<a href = "https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao">
+Fonte: <a href = "https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao">
 Dio.me </a>  
 <ul>
 
